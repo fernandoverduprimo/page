@@ -1,0 +1,43 @@
+---
+title: Consumo y ahorro de los hogares españoles. Pablo Gómez
+author: Pablo Gomez
+date: '2020-02-12'
+slug: consumo-y-ahorro-de-los-hogares-españoles
+categories: []
+tags: []
+---
+# INFORME ECONÓMICO DEL CONSUMO Y AHORRO DE LOS ESPAÑOLES
+
+## En este informe económico analizamos el gasto de los españoles en los diferentes productos. Los datos se extraen de la página web [datos.gov.es](datos.gov.es) .<br><br>
+
+![](/post/2020-02-12-consumo-y-ahorro-de-los-hogares-españoles_files/output_10_0.png)
+
+
+
+
+# Renta media de los españoles # 
+
+La renta bruta disponible de los hogares, estas instituciones obtuvieron una renta disponible total de 218.205 millones de euros un 5,76% en tasa interanual
+
+
+![](/post/2020-02-12-consumo-y-ahorro-de-los-hogares-españoles_files/output_17_0.png)
+
+
+
+El gasto en consumo final de los hogares se situó en 175.935 millones de euros un 2,1% más, de modo que su ahorro fue positivo.
+
+
+
+![](/post/2020-02-12-consumo-y-ahorro-de-los-hogares-españoles_files/output_22_0.png)
+
+
+
+La tasa de ahorro de los hogares e instituciones sin fines de lucro se situó en el 4,9% de su renta disponible en 2018, seis decimas menos que el año anterior y la mas baja desde el inicio de la serie.
+
+
+
+![](/post/2020-02-12-consumo-y-ahorro-de-los-hogares-españoles_files/output_28_0.png)
+
+
+El gasto en consumo final descendió a partir de la crisis de 2008. Desde 2014 ha seguido una tendencia alcista.
+

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581840734643.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4103321730",
+    "id" : "5C402A2A",
+    "lastKnownWriteTime" : 1581836125,
+    "last_content_update" : 1581836125,
+    "path" : "F:/website/blog-avemaria/themes/hugo-lithium/layouts/_default/single.html",
+    "project_path" : "themes/hugo-lithium/layouts/_default/single.html",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}
