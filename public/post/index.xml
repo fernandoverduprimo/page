@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ave Maria Economia 4eos Blog</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Ave Maria Economia 4eos Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Consumo y ahorro de los hogares españoles. Pablo Gómez</title>
+      <link>/2020/02/12/consumo-y-ahorro-de-los-hogares-espa%C3%B1oles/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/12/consumo-y-ahorro-de-los-hogares-espa%C3%B1oles/</guid>
+      <description>INFORME ECONÓMICO DEL CONSUMO Y AHORRO DE LOS ESPAÑOLESEn este informe económico analizamos el gasto de los españoles en los diferentes productos. Los datos se extraen de la página web datos.gov.es .
+Renta media de los españolesLa renta bruta disponible de los hogares, estas instituciones obtuvieron una renta disponible total de 218.205 millones de euros un 5,76% en tasa interanual
+El gasto en consumo final de los hogares se situó en 175.</description>
+    </item>
+    
+    <item>
+      <title>Consumo y ahorro españoles. Ferran Talens</title>
+      <link>/2020/02/12/consumo-y-ahorro-espa%C3%B1oles-ferran-talens/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/12/consumo-y-ahorro-espa%C3%B1oles-ferran-talens/</guid>
+      <description>INFORME ECONÓMICO DEL CONSUMO Y AHORRO DE LOS ESPAÑOLESEn este informe económico analizamos el gasto de los españoles en los diferentes productos. Los datos se extraen de la página web datos.gov.es .
+Según el INE (Instituto Nacional de Estadistica) la tasa de ahorro es el ahorro bruto entre la renta bruta disponible de los hogares. En este caso la renta media llega a 30 mil euros en 2009.</description>
+    </item>
+    
+    <item>
+      <title>Pressupost familiar.Pablo Gómez</title>
+      <link>/2020/02/07/presupost-familiar-pablo/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/07/presupost-familiar-pablo/</guid>
+      <description>Pablo treballa per 1.200 € al mes. Les seues despeses en euros per al mes de febrer son les següents: lloguer vivenda (518), aigua (32), Tv (15), compra (230), altres despeses incesseràries (25), prèstec (230), consum del mòbil (30). Pablo estalvia tot el que no gasta en un compte bancari que li renda 8 € al mes. Una vegada establert el pressupost de febrer, Pablo té ocasió d’ajustar-lo després de comprobar que la compra y la factura de mòbil habien pujat fins a 220 € i 40 € respectivament.</description>
+    </item>
+    
+  </channel>
+</rss>
