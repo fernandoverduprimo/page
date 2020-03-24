@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>/2020/03/24/la-empresa/</loc>
-    <lastmod>2020-03-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/</loc>
     <lastmod>2020-03-24T00:00:00+00:00</lastmod>
   </url>
@@ -40,6 +35,11 @@
   <url>
     <loc>/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/1/01/01/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
