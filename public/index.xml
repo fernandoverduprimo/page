@@ -6,10 +6,19 @@
     <description>Recent content on Ave Maria Economia 4eos Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>La empresa</title>
+      <link>/2020/03/24/la-empresa/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/24/la-empresa/</guid>
+      <description> hola mundoAquest és un document de Microsoft Office incrustat, amb tecnologia de Office. </description>
+    </item>
     
     <item>
       <title>Consumo y ahorro de los hogares españoles. Pablo Gómez</title>
@@ -47,7 +56,7 @@ El gasto en consumo final de los hogares se situó en 175.</description>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description>Aquest és un weblog per a l&amp;rsquo;assignatura d&amp;rsquo;Economia del col·legi Ave Maria de Carcaixent. Ací penjarem algunes de les activitats que desenvoluparan els alumnes al llarg del curs relacionats amb l&amp;rsquo;assignatura.</description>
     </item>
     
   </channel>
